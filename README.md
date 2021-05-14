@@ -1,2 +1,2 @@
 # Practice
-Repository for JavaScript Practice
+# Repository for JavaScript Practice
