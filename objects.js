@@ -26,4 +26,3 @@ for(let user in battleStations.users){  //user iterates through the battleStatio
 
 }
 
-//Testing connection
