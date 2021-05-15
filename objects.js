@@ -21,5 +21,7 @@ const battleStations = {
 //console.log(battleStations.Kenny.processor);
 
 
-for(let user in battleStations.users){
-    console.log(`${user}'s Computer: ${battleStations.users[user]}`) //This logs undefined. Fix next time you see this. 
+for(let user in battleStations.users){  //user iterates through the battleStations object's "users" property then logs the user and their processor using dot notation
+    console.log(`${user}'s Computer: ${battleStations.users[user].processor}`) 
+
+}
