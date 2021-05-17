@@ -25,3 +25,4 @@ for(let user in battleStations.users){  //user iterates through the battleStatio
     console.log(`${user}'s Computer: ${battleStations.users[user].processor}`) 
 
 }
+
